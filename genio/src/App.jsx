@@ -1,7 +1,6 @@
 import React from "react";
 import { useState } from "react";
 import "./AppStyle.scss";
-import palacio from "./images/imagemPalacio.png";
 import lampadaMagica from "./images/lampadaMagica.png";
 import genio from "./images/genio.png";
 
