@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido como parte do aprendizado no curso **Vai na Web**. O objetivo é demonstrar conceitos básicos de **React**, como o gerenciamento de estado com `useState`, manipulação de eventos e responsividade. 🌟
 
 <p align="center">
-    <img src="" width="700">
+    <img src="https://github.com/user-attachments/assets/8269c532-2368-4f5a-8418-22fe0f0e998a" width="700">
 </p>
 
 ## 📝 Descrição
